@@ -13,7 +13,7 @@
     "activeTab",
     "scripting",
     "tabs"
-  ],
+  ], 
   "host_permissions": [
     "https://twitter.com/*",
     "https://x.com/*",
@@ -47,5 +47,6 @@
   }],
   "author": "Twitter Token Plugin Team",
   "homepage_url": "https://github.com/twitter-token-plugin",
-  "minimum_chrome_version": "88"
+  "minimum_chrome_version": "88",
+  "privacy_policy_url": "https://liuyuelan12.github.io/twitter-token-plugin/"
 }
